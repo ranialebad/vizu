@@ -1,0 +1,650 @@
+[
+    {
+        "Country": "Afghanistan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Albania",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Algeria",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Angola",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Argentina",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Australia",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Austria",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Azerbaijan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Bahrain",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Bangladesh",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Barbados",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Belarus",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Belgium",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Belize",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Benin",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Bhutan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Bolivia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Botswana",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Brazil",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Brunei",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Bulgaria",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Burkina Faso",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Burundi",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Cambodia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Canada",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Cape Verde",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Central African Republic",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Chad",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Chile",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "China",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Colombia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Comoros",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Costa Rica",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Cuba",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Cyprus",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Czech Republic",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Denmark",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Djibouti",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Dominica",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Dominican Republic",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "East Timor",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Ecuador",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Egypt",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "El Salvador",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Eswatini",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Ethiopia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Finland",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "France",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Gabon",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Gambia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Georgia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Germany",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Ghana",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Greece",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Grenada",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Guatemala",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Guinea",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Guyana",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Haiti",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Honduras",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Hungary",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Iceland",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "India",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Indonesia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Iran",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Iraq",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Ireland",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Italy",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Ivory Coast",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Jamaica",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Japan",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Jordan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Kazakhstan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Kenya",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Laos",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Lebanon",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Lesotho",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Liberia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Libya",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Luxembourg",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Madagascar",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Malawi",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Malaysia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Maldives",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Mali",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Malta",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Mauritania",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Mauritius",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Mongolia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Montenegro",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Morocco",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Mozambique",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Namibia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Nepal",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Netherlands",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "New Zealand",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Nicaragua",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Niger",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Nigeria",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "North Korea",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Norway",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Oman",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Pakistan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Paraguay",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Peru",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Philippines",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Poland",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Portugal",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Qatar",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Romania",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Russia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Rwanda",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Saint Lucia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Senegal",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Serbia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Seychelles",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Sierra Leone",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Slovakia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Somalia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "South Africa",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "South Sudan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Spain",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Sri Lanka",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Sudan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Suriname",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Sweden",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Switzerland",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Syria",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Tajikistan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Tanzania",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Thailand",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Togo",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Tunisia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Turkey",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Turkmenistan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Uganda",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Ukraine",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "United Kingdom",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "United States",
+        "Recognizes_Palestine": false
+    },
+    {
+        "Country": "Uruguay",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Uzbekistan",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Vanuatu",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Vatican City",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Venezuela",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Vietnam",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Yemen",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Zambia",
+        "Recognizes_Palestine": true
+    },
+    {
+        "Country": "Zimbabwe",
+        "Recognizes_Palestine": true
+    }
+]
