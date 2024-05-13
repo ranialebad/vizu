@@ -1,0 +1,29 @@
+{
+    "In_favour": [
+        "Afghanistan", "Albania", "Algeria", "Angola", "Argentina", "Bahrain", "Bangladesh", "Benin", "Bolivia", "Botswana", 
+        "Brazil", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burma", "Burundi", "Byelorussia", "Cape Verde", "Chad", 
+        "China", "Colombia", "Comoros", "Cuba", "Cyprus", "Czechoslovakia", "Democratic Kampuchea", "Democratic Yemen", "Djibouti", 
+        "Ecuador", "Egypt", "Equatorial Guinea", "Ethiopia", "Gabon", "Gambia", "German Democratic Republic", "Ghana", "Guinea", 
+        "Guinea-Bissau", "Guyana", "Haiti", "Hungary", "India", "Indonesia", "Iran", "Iraq", "Jordan", "Kenya", "Kuwait", 
+        "Lao People's Democratic Republic", "Lebanon", "Libya", "Madagascar", "Malaysia", "Maldives", "Mali", "Malta", "Mauritania", 
+        "Mauritius", "Mexico", "Mongolia", "Morocco", "Mozambique", "Nicaragua", "Niger", "Nigeria", "Oman", "Pakistan", "Panama", 
+        "Papua New Guinea", "Peru", "Philippines", "Poland", "Qatar", "Romania", "Rwanda", "Saint Lucia", "Saint Vincent and the Grenadines", 
+        "Samoa", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Somalia", "Sri Lanka", 
+        "Sudan", "Suriname", "Swaziland", "Syria", "Thailand", "Togo", "Tunisia", "Turkey", "Uganda", "Ukraine", "USSR", 
+        "United Arab Emirates", "United Republic of Tanzania", "Vanuatu", "Viet Nam", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"
+    ],
+    "Against": [
+        "Israel", "United States"
+    ],
+    "Abstentions": [
+        "Antigua and Barbuda", "Australia", "Austria", "Bahamas", "Barbados", "Belgium", "Bhutan", "Canada", "Central African Republic", 
+        "Costa Rica", "Côte d'Ivoire", "Denmark", "Finland", "France", "Federal Republic of Germany", "Greece", "Iceland", "Ireland", 
+        "Italy", "Japan", "Lesotho", "Liberia", "Luxembourg", "Malawi", "Nepal", "Netherlands", "New Zealand", "Norway", "Portugal", 
+        "Spain", "Sweden", "Trinidad and Tobago", "United Kingdom", "Uruguay", "Venezuela", "Zaire"
+    ],
+    "Absent": [
+        "Belize", "Cameroon", "Chile", "Congo", "Dominica", "Dominican Republic", "El Salvador", "Fiji", "Grenada", "Guatemala", 
+        "Honduras", "Jamaica", "Paraguay", "Saint Kitts and Nevis", "Solomon Islands"
+    ],
+    "Notes": "IRAN ANNOUNCED THAT IT WAS NOT PARTICIPATING IN THE VOTE."
+}
