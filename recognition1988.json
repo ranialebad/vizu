@@ -1,28 +1,28 @@
 {
     "In_favour": [
         "Afghanistan", "Albania", "Algeria", "Angola", "Argentina", "Bahrain", "Bangladesh", "Benin", "Bolivia", "Botswana", 
-        "Brazil", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burma", "Burundi", "Byelorussia", "Cape Verde", "Chad", 
-        "China", "Colombia", "Comoros", "Cuba", "Cyprus", "Czechoslovakia", "Democratic Kampuchea", "Democratic Yemen", "Djibouti", 
-        "Ecuador", "Egypt", "Equatorial Guinea", "Ethiopia", "Gabon", "Gambia", "German Democratic Republic", "Ghana", "Guinea", 
+        "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Myanmar", "Burundi", "Belarus", "Cape Verde", "Chad", 
+        "China", "Colombia", "Comoros", "Cuba", "Cyprus", "Czechia", "Cambodia", "Yemen", "Djibouti", 
+        "Ecuador", "Egypt", "Eq. Guinea", "Ethiopia", "Gabon", "Gambia", "Germany", "Ghana", "Guinea", 
         "Guinea-Bissau", "Guyana", "Haiti", "Hungary", "India", "Indonesia", "Iran", "Iraq", "Jordan", "Kenya", "Kuwait", 
-        "Lao People's Democratic Republic", "Lebanon", "Libya", "Madagascar", "Malaysia", "Maldives", "Mali", "Malta", "Mauritania", 
+        "Laos", "Lebanon", "Libya", "Madagascar", "Malaysia", "Maldives", "Mali", "Malta", "Mauritania", 
         "Mauritius", "Mexico", "Mongolia", "Morocco", "Mozambique", "Nicaragua", "Niger", "Nigeria", "Oman", "Pakistan", "Panama", 
         "Papua New Guinea", "Peru", "Philippines", "Poland", "Qatar", "Romania", "Rwanda", "Saint Lucia", "Saint Vincent and the Grenadines", 
-        "Samoa", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Somalia", "Sri Lanka", 
-        "Sudan", "Suriname", "Swaziland", "Syria", "Thailand", "Togo", "Tunisia", "Turkey", "Uganda", "Ukraine", "USSR", 
-        "United Arab Emirates", "United Republic of Tanzania", "Vanuatu", "Viet Nam", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"
+        "Samoa", "São Tomé and Príncipe", "Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Somalia", "Sri Lanka", 
+        "Sudan", "Suriname", "eSwatini", "Syria", "Thailand", "Togo", "Tunisia", "Turkey", "Uganda", "Ukraine", "Soviet Union", 
+        "United Arab Emirates", "Tanzania", "Vanuatu", "Vietnam", "Yemen", "Serbia", "Zambia", "Zimbabwe"
     ],
     "Against": [
-        "Israel", "United States"
+        "Israel", "United States of America"
     ],
     "Abstentions": [
-        "Antigua and Barbuda", "Australia", "Austria", "Bahamas", "Barbados", "Belgium", "Bhutan", "Canada", "Central African Republic", 
-        "Costa Rica", "Côte d'Ivoire", "Denmark", "Finland", "France", "Federal Republic of Germany", "Greece", "Iceland", "Ireland", 
+        "Antigua and Barbuda", "Australia", "Austria", "Bahamas", "Barbados", "Belgium", "Bhutan", "Canada", "Central African Rep.", 
+        "Costa Rica", "Côte d'Ivoire", "Denmark", "Finland", "France", "Germany", "Greece", "Iceland", "Ireland", 
         "Italy", "Japan", "Lesotho", "Liberia", "Luxembourg", "Malawi", "Nepal", "Netherlands", "New Zealand", "Norway", "Portugal", 
-        "Spain", "Sweden", "Trinidad and Tobago", "United Kingdom", "Uruguay", "Venezuela", "Zaire"
+        "Spain", "Sweden", "Trinidad and Tobago", "United Kingdom", "Uruguay", "Venezuela", "Democratic Republic of the Congo"
     ],
     "Absent": [
-        "Belize", "Cameroon", "Chile", "Congo", "Dominica", "Dominican Republic", "El Salvador", "Fiji", "Grenada", "Guatemala", 
+        "Belize", "Cameroon", "Chile", "Republic of the Congo", "Dominica", "Dominican Rep.", "El Salvador", "Fiji", "Grenada", "Guatemala", 
         "Honduras", "Jamaica", "Paraguay", "Saint Kitts and Nevis", "Solomon Islands"
     ],
     "Notes": "IRAN ANNOUNCED THAT IT WAS NOT PARTICIPATING IN THE VOTE."
