@@ -183,7 +183,7 @@
     {"Country": "United Arab Emirates", "Vote": true},
     {"Country": "United Kingdom", "Vote": "NA"},
     {"Country": "United Republic of Tanzania", "Vote": true},
-    {"Country": "United States", "Vote": false},
+    {"Country": "United States of America", "Vote": false},
     {"Country": "Uruguay", "Vote": true},
     {"Country": "Uzbekistan", "Vote": true},
     {"Country": "Vanuatu", "Vote": "NA"},
