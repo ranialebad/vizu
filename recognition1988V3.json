@@ -81,7 +81,6 @@
     {"Country": "Burundi", "Recognizes": true},
     {"Country": "Central African Republic", "Recognizes": true},
     {"Country": "Bhutan", "Recognizes": true},
-    // Adding other countries not in the original list
     {"Country": "Fiji", "Recognizes": false},
     {"Country": "Canada", "Recognizes": false},
     {"Country": "United States of America", "Recognizes": false},
