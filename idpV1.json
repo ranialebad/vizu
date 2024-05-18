@@ -125,5 +125,6 @@
     {"source": 0, "target": 1, "value": 763000.0},
     {"source": 1, "target": 2, "value": 86000.0},
     {"source": 0, "target": 1, "value": 769000.0},
-    {"source": 1, 'target': 2, 'value': 86000.0}]
+    {"source": 1, "target": 2, "value": 86000.0}
+  ]
 }
