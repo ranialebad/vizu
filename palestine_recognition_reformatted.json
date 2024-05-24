@@ -1,0 +1,887 @@
+[
+    {
+        "Country": "Fiji",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Tanzania",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "W. Sahara",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Canada",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "United States of America",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Recognizes": true,
+        "Year": "1992"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Recognizes": true,
+        "Year": "1994"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Recognizes": true,
+        "Year": "1994"
+    },
+    {
+        "Country": "Indonesia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Argentina",
+        "Recognizes": true,
+        "Year": "2010"
+    },
+    {
+        "Country": "Chile",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Dem. Rep. Congo",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Somalia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Kenya",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Sudan",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Chad",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Haiti",
+        "Recognizes": true,
+        "Year": "2013"
+    },
+    {
+        "Country": "Dominican Rep.",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Russia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Bahamas",
+        "Recognizes": true,
+        "Year": "2024"
+    },
+    {
+        "Country": "Falkland Is.",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Norway",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Greenland",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Fr. S. Antarctic Lands",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Timor-Leste",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "South Africa",
+        "Recognizes": true,
+        "Year": "1995"
+    },
+    {
+        "Country": "Lesotho",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Mexico",
+        "Recognizes": true,
+        "Year": "2023"
+    },
+    {
+        "Country": "Uruguay",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Brazil",
+        "Recognizes": true,
+        "Year": "2010"
+    },
+    {
+        "Country": "Bolivia",
+        "Recognizes": true,
+        "Year": "2010"
+    },
+    {
+        "Country": "Peru",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Colombia",
+        "Recognizes": true,
+        "Year": "2018"
+    },
+    {
+        "Country": "Panama",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Costa Rica",
+        "Recognizes": true,
+        "Year": "2008"
+    },
+    {
+        "Country": "Nicaragua",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Honduras",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "El Salvador",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Guatemala",
+        "Recognizes": true,
+        "Year": "2013"
+    },
+    {
+        "Country": "Belize",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Venezuela",
+        "Recognizes": true,
+        "Year": "2009"
+    },
+    {
+        "Country": "Guyana",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "SuriGeographic_area",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "France",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Ecuador",
+        "Recognizes": true,
+        "Year": "2010"
+    },
+    {
+        "Country": "Puerto Rico",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Jamaica",
+        "Recognizes": true,
+        "Year": "2024"
+    },
+    {
+        "Country": "Cuba",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Botswana",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Namibia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Senegal",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Mali",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Mauritania",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Benin",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Niger",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Nigeria",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Cameroon",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Togo",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Ghana",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Guinea",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Liberia",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Central African Rep.",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Congo",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Gabon",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Eq. Guinea",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Zambia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Malawi",
+        "Recognizes": true,
+        "Year": "1998"
+    },
+    {
+        "Country": "Mozambique",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "eSwatini",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Angola",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Burundi",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Israel",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Lebanon",
+        "Recognizes": true,
+        "Year": "2008"
+    },
+    {
+        "Country": "Madagascar",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Palestine",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Gambia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Tunisia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Algeria",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Jordan",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Qatar",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Kuwait",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Iraq",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Oman",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Vanuatu",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Cambodia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Thailand",
+        "Recognizes": true,
+        "Year": "2012"
+    },
+    {
+        "Country": "Laos",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Myanmar",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Vietnam",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "North Korea",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "South Korea",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Mongolia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "India",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Bangladesh",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Bhutan",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Nepal",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Pakistan",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Afghanistan",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Tajikistan",
+        "Recognizes": true,
+        "Year": "1994"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Recognizes": true,
+        "Year": "1995"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Recognizes": true,
+        "Year": "1992"
+    },
+    {
+        "Country": "Iran",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Syria",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Armenia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Sweden",
+        "Recognizes": true,
+        "Year": "2014"
+    },
+    {
+        "Country": "Belarus",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Ukraine",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Poland",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Austria",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Hungary",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Moldova",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Romania",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Lithuania",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Latvia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Estonia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Germany",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Bulgaria",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Greece",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Turkey",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Albania",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Croatia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Switzerland",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Luxembourg",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Belgium",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Netherlands",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Portugal",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Spain",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Ireland",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "New Caledonia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Solomon Is.",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "New Zealand",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Australia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "China",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Taiwan",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Italy",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Denmark",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "United Kingdom",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Iceland",
+        "Recognizes": true,
+        "Year": "2011"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Recognizes": true,
+        "Year": "1992"
+    },
+    {
+        "Country": "Georgia",
+        "Recognizes": true,
+        "Year": "1992"
+    },
+    {
+        "Country": "Philippines",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Malaysia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Brunei",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Slovenia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Finland",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Slovakia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Czechia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Eritrea",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Japan",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Paraguay",
+        "Recognizes": true,
+        "Year": "2005"
+    },
+    {
+        "Country": "Yemen",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Antarctica",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "N. Cyprus",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Cyprus",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Morocco",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Egypt",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Libya",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Ethiopia",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Djibouti",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Somaliland",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Uganda",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Rwanda",
+        "Recognizes": true,
+        "Year": "1989"
+    },
+    {
+        "Country": "Bosnia and Herz.",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Macedonia",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Serbia",
+        "Recognizes": true,
+        "Year": "1988"
+    },
+    {
+        "Country": "Montenegro",
+        "Recognizes": true,
+        "Year": "2006"
+    },
+    {
+        "Country": "Kosovo",
+        "Recognizes": false,
+        "Year": "NA"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Recognizes": true,
+        "Year": "2024"
+    },
+    {
+        "Country": "S. Sudan",
+        "Recognizes": false,
+        "Year": "NA"
+    }
+]
