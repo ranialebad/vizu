@@ -106,8 +106,8 @@
     },
     {
         "Country": "Norway",
-        "Recognizes": false,
-        "Year": "NA"
+        "Recognizes": true,
+        "Year": "2024"
     },
     {
         "Country": "Greenland",
@@ -661,13 +661,13 @@
     },
     {
         "Country": "Spain",
-        "Recognizes": false,
-        "Year": "NA"
+        "Recognizes": true,
+        "Year": "2024"
     },
     {
         "Country": "Ireland",
-        "Recognizes": false,
-        "Year": "NA"
+        "Recognizes": true,
+        "Year": "2024"
     },
     {
         "Country": "New Caledonia",
