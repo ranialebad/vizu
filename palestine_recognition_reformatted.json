@@ -365,7 +365,7 @@
         "Year": "1988"
     },
     {
-        "Country": "eSwatini",
+        "Country": "Eswatini",
         "Recognizes": false,
         "Year": "NA"
     },
@@ -751,8 +751,8 @@
     },
     {
         "Country": "Slovenia",
-        "Recognizes": false,
-        "Year": "NA"
+        "Recognizes": true,
+        "Year": "2024"
     },
     {
         "Country": "Finland",
